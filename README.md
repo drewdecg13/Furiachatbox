@@ -29,4 +29,4 @@ npm start
 - `/mvp` – Link para votação de MVP
 
 ---
-Feito com 💛 por fãs da FURIA 🐍
+Feito com 💛 por  um fã da FURIA 
