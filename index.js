@@ -94,8 +94,8 @@ bot.command('noticias', (ctx) => {
 
 Siga as redes sociais oficiais para atualizações, bastidores e anúncios importantes:
 
-🐦 *Twitter:* [@FURIA](https://twitter.com/furiagg)  
-📸 *Instagram:* [@FURIA](https://instagram.com/furia)
+🐦 *Twitter:* [@FURIA](https://x.com/FURIA?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
+📸 *Instagram:* [@FURIA](https://www.instagram.com/furiagg/?hl=en)
 
 Fique por dentro de tudo que rola no CS:GO e muito mais! 🎯
   `;
