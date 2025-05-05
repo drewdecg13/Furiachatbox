@@ -24,9 +24,8 @@ npm start
 
 - `/start` – Boas-vindas e menu
 - `/jogos` – Próximos jogos da FURIA
-- `/ao_vivo` – Placar atual do jogo (se houver)
 - `/noticias` – Últimas notícias da FURIA
-- `/mvp` – Link para votação de MVP
+- `/Resultados` – Resultados dos últimos jogos da FURIA
 
 ---
 Feito com 💛 por  um fã da FURIA 
